@@ -1,0 +1,121 @@
+[
+ {
+   "product": "10 mg Capsules (10 Pack) (Brand A)",
+   "cogs": "1.35",
+   "wholesale_price": "5.95",
+   "kiv_per_unit": 0.1,
+   "init_qty": 0
+ },
+ {
+   "product": "1:1 Capsules (10 Pack) (Brand A)",
+   "cogs": "2.19",
+   "wholesale_price": "7.95",
+   "kiv_per_unit": 0.2,
+   "init_qty": 0
+ },
+ {
+   "product": "10 mg Slips (Brand A)",
+   "cogs": "0.28",
+   "wholesale_price": "1.50",
+   "kiv_per_unit": 0.01,
+   "init_qty": 0
+ },
+ {
+   "product": "1:1 Slips (Brand A)",
+   "cogs": "0.37",
+   "wholesale_price": "2.00",
+   "kiv_per_unit": 0.02,
+   "init_qty": 0
+ },
+ {
+   "product": "2:1 Slips (Brand A)",
+   "cogs": "0.34",
+   "wholesale_price": "1.75",
+   "kiv_per_unit": 0.015,
+   "init_qty": 0
+ },
+ {
+   "product": "1:1 Salve (100 mg) (Brand A)",
+   "cogs": "1.64",
+   "wholesale_price": "6.95",
+   "kiv_per_unit": 0.1,
+   "init_qty": 0
+ },
+ {
+   "product": "1 g CO2 Applicator (Brand A)",
+   "cogs": "4.44",
+   "wholesale_price": "9.50",
+   "kiv_per_unit": 1,
+   "init_qty": 0
+ },
+ {
+   "product": "1 g Distillate Applicator (Brand A)",
+   "cogs": "7.05",
+   "wholesale_price": "13.33",
+   "kiv_per_unit": 1.4,
+   "init_qty": 0
+ },
+ {
+   "product": "500 mg Distillate Applicator (Brand A)",
+   "cogs": "4.15",
+   "wholesale_price": "7.50",
+   "kiv_per_unit": 0.7,
+   "init_qty": 0
+ },
+ {
+   "product": "1 g CO2 Oil Cart (Brand A)",
+   "cogs": "7.03",
+   "wholesale_price": "17.50",
+   "kiv_per_unit": 1,
+   "init_qty": 0
+ },
+ {
+   "product": "500 mg CO2 Oil Cart (Brand A)",
+   "cogs": "5.43",
+   "wholesale_price": "10.95",
+   "kiv_per_unit": 0.5,
+   "init_qty": 0
+ },
+ {
+   "product": "500 mg CO2 Oil Cart (Brand B)",
+   "cogs": "4.70",
+   "wholesale_price": "8.50",
+   "kiv_per_unit": 0.5,
+   "init_qty": 0
+ },
+ {
+   "product": "1 g CO2 Oil Cart (Brand B)",
+   "cogs": "6.30",
+   "wholesale_price": "12.00",
+   "kiv_per_unit": 1,
+   "init_qty": 0
+ },
+ {
+   "product": "1 g Distillate Cart (Brand A)",
+   "cogs": "9.64",
+   "wholesale_price": "18.00",
+   "kiv_per_unit": 1.4,
+   "init_qty": 0
+ },
+ {
+   "product": "500 mg Distillate Cart (Brand A)",
+   "cogs": "6.74",
+   "wholesale_price": "13.00",
+   "kiv_per_unit": 0.7,
+   "init_qty": 0
+ },
+ {
+   "product": "1 g Distillate Jar (Brand C)",
+   "cogs": "8.01",
+   "wholesale_price": "11.95",
+   "kiv_per_unit": 1.4,
+   "init_qty": 0
+ },
+ {
+   "product": "500 mg Distillate Jar (Brand C)",
+   "cogs": "4.26",
+   "wholesale_price": "4.50",
+   "kiv_per_unit": 0.7,
+   "init_qty": 0
+ }
+]
